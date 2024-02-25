@@ -56,27 +56,33 @@
 </h3>
 
 <p dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.ruby-lang.org/en/">
-    <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"
-      alt="Ruby" data-canonical-src="https://img.shields.io/badge/-Ruby-red?style=flat-square&amp;logo=Ruby"
+  <!-- Operating System -->
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linux.org/">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+      alt="Linux" data-canonical-src="https://img.shields.io/badge/-Git-black?style=flat-square&amp;logo=git"
       style="max-width: 100%;">
   </a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://rubyonrails.org/">
-    <img
-src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"
-      alt="Ruby On Rails"
-      data-canonical-src="https://img.shields.io/badge/-Rails-red?style=flat-square&amp;logo=ruby-on-rails"
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://ubuntu.com/">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
+      alt="Ubuntu" data-canonical-src="https://img.shields.io/badge/-Git-black?style=flat-square&amp;logo=git"
       style="max-width: 100%;">
   </a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.mysql.com/">
-    <img
-src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
-      alt="MySQL" data-canonical-src="https://img.shields.io/badge/-MySQL-black?style=flat-square&amp;logo=mysql"
+
+  <!-- IDEs/Editors -->
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"
+      alt="Visual Studio Code" data-canonical-src="https://img.shields.io/badge/-Git-black?style=flat-square&amp;logo=git"
       style="max-width: 100%;">
   </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.sublimetext.com/">
+    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"
+      alt="Sublime Text" data-canonical-src="https://img.shields.io/badge/-Git-black?style=flat-square&amp;logo=git"
+      style="max-width: 100%;">
+  </a>
+
+  <!-- Version Control System -->
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://git-scm.com/">
-    <img
-src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-black?style=flat-square&amp;logo=git"
       style="max-width: 100%;">
   </a>
@@ -90,14 +96,61 @@ src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git
     <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" data-canonical-src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&amp;logo=gitlab" style="max-width: 100%;">
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://bitbucket.org/">
-    <img
-src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"
+    <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"
       alt="BitBucket"
       data-canonical-src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&amp;logo=bitbucket"
       style="max-width: 100%;">
   </a>
+
+  <!-- Cloud -->
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://aws.amazon.com/en/">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS" data-canonical-src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&amp;logo=amazon-aws" style="max-width: 100%;">
+  </a>
+
+  <!-- Database -->
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
+      alt="MySQL" data-canonical-src="https://img.shields.io/badge/-MySQL-black?style=flat-square&amp;logo=mysql"
+      style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"
+      alt="Postgres" data-canonical-src="https://img.shields.io/badge/-MySQL-black?style=flat-square&amp;logo=mysql"
+      style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://redis.io/">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"
+      alt="Redis" data-canonical-src="https://img.shields.io/badge/-MySQL-black?style=flat-square&amp;logo=mysql"
+      style="max-width: 100%;">
+  </a>
+
+  <!-- Code Language -->
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.ruby-lang.org/en/">
+    <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"
+      alt="Ruby" data-canonical-src="https://img.shields.io/badge/-Ruby-red?style=flat-square&amp;logo=Ruby"
+      style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://rubyonrails.org/">
+    <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"
+      alt="Ruby On Rails"
+      data-canonical-src="https://img.shields.io/badge/-Rails-red?style=flat-square&amp;logo=ruby-on-rails"
+      style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://nodejs.org/en">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
+      alt="NodeJS"
+      data-canonical-src="https://img.shields.io/badge/-Rails-red?style=flat-square&amp;logo=ruby-on-rails"
+      style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://react.dev/">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+      alt="React" data-canonical-src="https://img.shields.io/badge/-Ruby-red?style=flat-square&amp;logo=Ruby"
+      style="max-width: 100%;">
+  </a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
+      alt="TypeScript" data-canonical-src="https://img.shields.io/badge/-Ruby-red?style=flat-square&amp;logo=Ruby"
+      style="max-width: 100%;">
   </a>
 </p>
 
