@@ -1,7 +1,10 @@
-
+<!--
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/StKiS6x698JAl9d6cx/giphy.gif?cid=ecf05e4720ef3054a461e9fa5ad397e24eb82c4a29f410d8&ep=v1_gifs_gifId&rid=giphy.gif&ct=g" width="300" />
 </div>
+-->
+![Chiennv](https://github.com/chienbn9x/chienbn9x/assets/58911075/85c76188-b1bb-40de-bdb1-a8fb44535074)
+
 
 <h3 dir="auto">
   <a id="user-content-hi-there-" class="anchor" aria-hidden="true" href="#hi-there-">
@@ -54,48 +57,47 @@
 
 <p dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.ruby-lang.org/en/">
-    <img
-      src="https://camo.githubusercontent.com/3579c858b9fdfafc25b90256360809260a2cc2b0f73aaea2466aa3dcf2833a58/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d527562792d7265643f7374796c653d666c61742d737175617265266c6f676f3d52756279"
+    <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"
       alt="Ruby" data-canonical-src="https://img.shields.io/badge/-Ruby-red?style=flat-square&amp;logo=Ruby"
       style="max-width: 100%;">
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://rubyonrails.org/">
     <img
-      src="https://camo.githubusercontent.com/e316a1085dc6cb29e4b5b4c874d29f7a0123d140e76a9de46afd9d4d54e44f5c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5261696c732d7265643f7374796c653d666c61742d737175617265266c6f676f3d727562792d6f6e2d7261696c73"
+src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"
       alt="Ruby On Rails"
       data-canonical-src="https://img.shields.io/badge/-Rails-red?style=flat-square&amp;logo=ruby-on-rails"
       style="max-width: 100%;">
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.mysql.com/">
     <img
-      src="https://camo.githubusercontent.com/1a085b81c0ac63ef70d22ee1a67560c1bdd5c42038ba20d129d89e7de5603953/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c"
+src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
       alt="MySQL" data-canonical-src="https://img.shields.io/badge/-MySQL-black?style=flat-square&amp;logo=mysql"
       style="max-width: 100%;">
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://git-scm.com/">
     <img
-      src="https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974"
+src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-black?style=flat-square&amp;logo=git"
       style="max-width: 100%;">
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/">
     <img
-      src="https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562"
+      src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&amp;logo=github"
       style="max-width: 100%;">
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://about.gitlab.com/">
-    <img src="https://camo.githubusercontent.com/35b0a4cb52ffc87fc7c464f9f2527dec988b663d0ae86bf8d542ae5649bd2c9e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744c61622d4643413132313f7374796c653d666c61742d737175617265266c6f676f3d6769746c6162" alt="GitLab" data-canonical-src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&amp;logo=gitlab" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" data-canonical-src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&amp;logo=gitlab" style="max-width: 100%;">
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://bitbucket.org/">
     <img
-      src="https://camo.githubusercontent.com/961b1e5615dfc35b0c81b65b2366143a75e91e54a58e21813e3f94a34ab4be0a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4269744275636b65742d6461726b626c75653f7374796c653d666c61742d737175617265266c6f676f3d6269746275636b6574"
+src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"
       alt="BitBucket"
       data-canonical-src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&amp;logo=bitbucket"
       style="max-width: 100%;">
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://aws.amazon.com/en/">
-    <img src="https://camo.githubusercontent.com/1c371748f30438eafd069cd2e55f401a4bdc5b43cadc247324fb7785333e95ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e2532304157532d3233324633453f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e2d617773" alt="Amazon AWS" data-canonical-src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&amp;logo=amazon-aws" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS" data-canonical-src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&amp;logo=amazon-aws" style="max-width: 100%;">
   </a>
 </p>
 
